@@ -30,7 +30,7 @@ public class Ejemplo10 {
         return cadena;        
     }
     
-    public static int obtenerSuma(int operandor1, int operandor2){
+    public static int obtenerSuma(int operandor1){
         int suma;
         String cadena = "";
         suma = operandor1 + operandor1;

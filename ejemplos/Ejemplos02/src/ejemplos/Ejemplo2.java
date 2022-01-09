@@ -17,7 +17,7 @@ public class Ejemplo2 {
     public static void main(String[] args) {
         // 
         int[] informacion = {10, 20, 30, 40, 50, 100};
-        int valorBuscar = 140;
+        int valorBuscar = 30;
         boolean bandera = buscarDato(informacion, valorBuscar);
         if (bandera) {
             System.out.printf("El valor %d fue encontrado\n", valorBuscar);
